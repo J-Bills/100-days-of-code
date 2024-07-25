@@ -26,7 +26,6 @@
 * **Day 46** [100 Billboard to Spotify Playlist App](https://github.com/J-Bills/day_46)
 * **Day 47** [Amazon Price Checker App](https://github.com/J-Bills/day_47)
 * **Day 48** [Automating Cookie Clicker with Selenium](https://github.com/J-Bills/day_48)
-* **Day 49** [tkinter, *args and **kwargs](https://github.com/J-Bills/day_49)
 * **Day 50** [Tinder Swipe Bot](https://github.com/J-Bills/day_50)
 * **Day 51** [Twitter Internet Speed Complaint Bot](https://github.com/J-Bills/day_51)
 * **Day 52** [Instagram Follower Bot](https://github.com/J-Bills/day_52)
