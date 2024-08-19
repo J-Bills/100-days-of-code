@@ -15,7 +15,7 @@
 * **Day 35** [Keys, Authentication: Send SMS](https://github.com/J-Bills/day_35)
 * **Day 36** [Stock Trading News Alert Project](https://github.com/J-Bills/day_36)
 * **Day 37** [Habit Tracking Project: API Post Requests](https://github.com/J-Bills/day_37)
-* **Day 38** [Workkout Tracking Using Google SHeets](https://github.com/J-Bills/day_38)
+* **Day 38** [Workout Tracking Using Google SHeets](https://github.com/J-Bills/day_38)
 * **Day 39** [Flight Deal Finder App](https://github.com/J-Bills/day_39)
 * **Day 40** [Flight Club App](https://github.com/J-Bills/day_40)
 * **Day 41** [Intro to HTML](https://github.com/J-Bills/day_41)
